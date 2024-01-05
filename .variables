@@ -1,0 +1,7 @@
+export SOLUTION="sandbox_cdk"
+
+# configure aws access
+export AWS_DEFAULT_REGION="eu-north-1"
+export AWS_PROFILE="cdk"
+export TF_VAR_environment="dev"
+
